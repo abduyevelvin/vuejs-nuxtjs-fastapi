@@ -10,3 +10,4 @@ run_frontend:
 	cd frontend \
 	&& npm install \
 	&& npm run dev
+test
